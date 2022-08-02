@@ -2,7 +2,7 @@ import keyboard
 import time
 
 msg = "Hello"
-num = 100000
+num = 1
 
 print("Waiting for shift..")
 keyboard.wait("shift")
